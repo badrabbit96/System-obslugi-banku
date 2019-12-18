@@ -1,0 +1,10 @@
+
+Bankowoœæ elektroniczna /index.php
+
+login: 12345678
+has³o: haslo123
+
+System zarz¹dzania /bank.php
+
+login: 1
+has³o: haslo123
